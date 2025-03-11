@@ -24,3 +24,13 @@ console.log(found)
  //reduce
  let result = numbers.reduce((acc, num)=>acc + num)
  console.log(result)
+
+
+
+
+
+
+
+
+
+

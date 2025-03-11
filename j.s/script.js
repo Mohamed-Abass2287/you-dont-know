@@ -35,10 +35,5 @@ let new_fruits_array=["orange","blackberry",...fruits]
     btn.addEventListener('click',function(e){alert("i have been clicked")})
     console.log("hello world")
 
-let item=student{
-    name:amin;
-    registration No:122345;
-    address:9876;
-}
-console.log(student.name)
+
     
