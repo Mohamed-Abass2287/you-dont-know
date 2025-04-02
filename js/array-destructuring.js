@@ -2,7 +2,7 @@
 let fruits=["lemon", "orange", "kiwi", "avocado", "banana"]
 
 const[a, b, c ,d ,e] = fruits
-console.log(b)
+console.log(c)
 
 
 
